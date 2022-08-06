@@ -15,23 +15,23 @@
 
 - Registration
 
-![Registration](./img/registration)
+![Registration](./img/registration.png)
 
 - Login
 
-![Login](./img/login)
+![Login](./img/login.png)
 
 - Book Seats
 
-![Book Seat](./img/book_seat)
+![Book Seat](./img/book_seat.png)
 
 - Ticket
 
-![Ticket](./img/ticket)
+![Ticket](./img/ticket.png)
 
 - List of Bookings
 
-![Bookings](./img/bookings)
+![Bookings](./img/bookings.png)
 
 
 
