@@ -1,0 +1,8 @@
+Title|Genre|Language|Actors|Release Date|Duration
+Avengers|Action|English|Robert Downey Jr, Chris Evans, Scarlett Johansson|20/07/2021|128
+Conjuring 3|Horror|English|Vera Farmiga, Patrick Wilson|02/07/2021|112
+Inception|Sci-fi|English|Leonardo DiCaprio, Joseph Gordon-Levitt|31/06/2021|162
+Malik|Drama|Malayalam|Fahadh Faasil, Joju George|15/07/2021|160
+Dilwale Dulhania Le Jayenge|Romance|Hindi|Shah Rukh Khan, Kajol|15/10/1995|180
+KGF 2|Action|Kannada|Yash, Srinidhi Shetty|16/07/2021|140
+Baahubali|Action|Telugu|Prabhas, Rana, Anushka|04/07/2021|167
